@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791860887526",
+    "project_id": "steps-7e02a",
+    "storage_bucket": "steps-7e02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791860887526:android:771f641fd4c54445532027",
+        "android_client_info": {
+          "package_name": "com.dimata88.steps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4uOrLqw4sVUwvVAU1M4JX6o7oh9U5kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
