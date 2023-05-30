@@ -28,7 +28,6 @@
     },
     "plugins": [
       "./node_modules/expo-sample-pedometer/expo-sample-pedometer-plugin.js",
-      "./node_modules/expo-sample-pedometer/expo-sample-pedometer-plugin.js",
       "@react-native-firebase/app",
       [
         "expo-build-properties",
@@ -37,7 +36,8 @@
             "useFrameworks": "static"
           }
         }
-      ]
+      ],
+      "react-native-background-geolocation"
     ]
   }
 }
