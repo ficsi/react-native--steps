@@ -15,7 +15,6 @@
     "@react-navigation/native-stack": "^6.9.12",
     "expo": "~48.0.15",
     "expo-build-properties": "^0.6.0",
-    "expo-modules-autolinking": "~1.2.0",
     "expo-sample-pedometer": "0.2.0",
     "expo-status-bar": "~1.4.4",
     "firebase": "^9.22.1",

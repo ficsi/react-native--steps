@@ -18,7 +18,8 @@
       "supportsTablet": true,
       "infoPlist": {
         "NSMotionUsageDescription": "Needs Permission for Steps"
-      }
+      },
+      "bundleIdentifier": "com.dimata88.Steps"
     },
     "android": {
       "adaptiveIcon": {
@@ -42,6 +43,11 @@
         }
       ],
       "react-native-background-geolocation"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "07cde7bc-e4f8-40aa-a3fb-6aea9b235727"
+      }
+    }
   }
 }
